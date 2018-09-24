@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme"
+        parent="Theme.AppCompat.DayNight"/>
+
+    <style name="AppTheme.NoActionBar"
+        parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppDialogTheme"
+        parent="Theme.AppCompat.DayNight.Dialog.MinWidth"/>
+
+    <style name="AppDialogTheme.NoActionBar"
+        parent="AppDialogTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

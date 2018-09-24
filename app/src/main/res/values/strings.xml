@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- activity__main -->
+    <string name="activity__main__open_as_dialog">Open as dialog</string>
+    <string name="activity__main__open_normally">Open normally</string>
+    <string name="activity__main__open_as_dialog_no_toolbar">Open as dialog without toolbar</string>
+    <string name="activity__main__open_normally_no_toolbar">Open normally without toolbar</string>
+
+    <!-- activity__next -->
+    <string name="activity__next__hello_world">Hello, world!</string>
+
+</resources>

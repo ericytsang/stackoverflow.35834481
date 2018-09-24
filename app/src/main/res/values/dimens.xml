@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- activities -->
+    <dimen name="activity_padding">8dp</dimen>
+
+</resources>

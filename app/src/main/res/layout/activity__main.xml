@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_padding">
+
+    <Button
+        android:text="@string/activity__main__open_as_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openNextActivityAsDialog"/>
+
+    <Button
+        android:text="@string/activity__main__open_normally"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openNextActivityAsNormal"/>
+
+    <Button
+        android:text="@string/activity__main__open_as_dialog_no_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openNextActivityAsDialogNoToolbar"/>
+
+    <Button
+        android:text="@string/activity__main__open_normally_no_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openNextActivityAsNormalNoToolbar"/>
+
+</LinearLayout>
